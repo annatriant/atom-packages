@@ -14,3 +14,5 @@ Useful packages
 - https://atom.io/packages/file-icons
 - https://atom.io/packages/git-plus
 - https://atom.io/packages/fold-lines
+- https://atom.io/packages/gulp-control
+- https://atom.io/packages/git-control
