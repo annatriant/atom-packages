@@ -13,3 +13,4 @@ Useful packages
 - https://atom.io/packages/pigments
 - https://atom.io/packages/file-icons
 - https://atom.io/packages/git-plus
+- https://atom.io/packages/fold-lines
